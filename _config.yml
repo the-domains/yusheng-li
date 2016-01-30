@@ -1,0 +1,28 @@
+name: Yusheng Li
+favicon: null
+layout_spectrum: 0.8117593307979405
+typography_spectrum: 0.36340185930021107
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.41638974100351334
+  lightness: 0.646620285930112
+  saturation: 0.555669340537861
+  rhythmicContrast: 0.8296988499350846
+purpose: []
